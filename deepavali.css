@@ -1,0 +1,34 @@
+body{
+    background-color: goldenrod;
+}
+
+h1{
+    color: purple;
+    text-align: center;
+}
+
+h2{
+    color: darkgreen;
+    text-align: center;
+}
+
+p{
+    color: black;
+}
+
+ul{
+    color: darkred;
+}
+
+img{
+    max-width: 50%;
+    display: block;
+    margin: auto;
+}
+
+hr{
+    width: 40%;
+    background-color: rgb(69, 96, 146);
+    height: 3px;
+    border: none;
+}
